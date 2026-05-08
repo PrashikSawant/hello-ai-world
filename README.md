@@ -104,7 +104,7 @@ This is Project 1 of many. Next I will be building:
 I am Prashik — an aspiring AI Engineer currently on a 4-month intensive
 journey to become job-ready in Generative AI Engineering.
 
-Follow my journey on [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+Follow my journey on [LinkedIn](https://www.linkedin.com/in/prashik-sawant-ds/)
 
 ---
 
