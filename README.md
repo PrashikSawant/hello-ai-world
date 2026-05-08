@@ -70,6 +70,9 @@ A terminal-based conversational AI chatbot that:
 ```
 
 3. Create a `.env` file and add your Groq API key
+```bash
+   GROQ_API_KEY=your-key-here
+```
 
 4. Run the chatbot
 ```bash
