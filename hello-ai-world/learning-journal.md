@@ -11,3 +11,11 @@
 5. I learned that even the most complex AI applications are built on this same simple foundation — send input, get output.
 
 ---
+
+## Day 2 — May 9, 2026
+
+1. I learned that system prompts completely control how an AI behaves and responds.
+2. I learned that the same AI model gives totally different outputs depending on the instructions you give it.
+3. I learned how to build a menu-driven Python application with a while loop and dictionary.
+4. I learned the difference between a system prompt and a user prompt in the Groq API.
+5. I learned that prompt engineering is a real skill — small changes in wording change the output dramatically.
