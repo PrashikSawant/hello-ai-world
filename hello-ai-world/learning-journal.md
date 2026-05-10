@@ -19,3 +19,18 @@
 3. I learned how to build a menu-driven Python application with a while loop and dictionary.
 4. I learned the difference between a system prompt and a user prompt in the Groq API.
 5. I learned that prompt engineering is a real skill — small changes in wording change the output dramatically.
+
+---
+
+## Day 3 — May 11, 2026
+
+1. I learned that AI models have no memory by default — every message 
+   is treated as a fresh conversation unless you pass history manually.
+2. I learned that conversation memory works by storing all previous 
+   messages in a list and sending the full list with every API call.
+3. I learned that a system prompt defines the AI's entire personality 
+   and behaviour before the conversation even starts.
+4. I learned that the more messages in history, the more context 
+   the AI has — but also the more tokens are used per request.
+5. I learned how to build a multi-persona system where the same 
+   AI model behaves completely differently based on instructions.
