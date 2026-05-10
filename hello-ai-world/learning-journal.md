@@ -22,7 +22,7 @@
 
 ---
 
-## Day 3 — May 11, 2026
+## Day 3 — May 10, 2026
 
 1. I learned that AI models have no memory by default — every message 
    is treated as a fresh conversation unless you pass history manually.
